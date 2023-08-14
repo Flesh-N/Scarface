@@ -1,0 +1,360 @@
+#EXTM3U
+#EXTINF:-1 group-title="24/7 LATINO" tvg-logo="http://svtv.xyz/nologo.png",24/7 The Big Bang Theory
+http://svtv.xyz:8080/cesar25junio/XHMVU/100700
+#EXTINF:-1 group-title="24/7 LATINO" tvg-logo="https://tcf.admeen.org/game/17000/16583/320x160/tom-jerry-mouse-maze.jpg",24/7 Tom Y Jerry
+http://svtv.xyz:8080/cesar25junio/XHMVU/100788
+#EXTINF:-1 group-title="24/7 LATINO" tvg-logo="https://img.wikicharlie.cl/5/5f/Don_Gato_Personajes.jpg",24/7 Don Gato y su Pandilla**
+http://svtv.xyz:8080/cesar25junio/XHMVU/100821
+#EXTINF:-1 group-title="24/7 LATINO" tvg-logo="https://e7.pngegg.com/pngimages/1012/671/png-clipart-woody-woodpecker-duck-pajaro-loco-chicken-vertebrate.png",24/7 El Show del Pajaro Loco
+http://svtv.xyz:8080/cesar25junio/XHMVU/100872
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png",CR | TELETICA 7
+http://svtv.xyz:8080/cesar25junio/XHMVU/108974
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-02/TeleSUR-Costa%2520Rica.png?itok=_XGPSrGY",CR | TELESUR
+http://svtv.xyz:8080/cesar25junio/XHMVU/108975
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Esperanza-TV-en-vivo-Online.png",CR | TELERED
+http://svtv.xyz:8080/cesar25junio/XHMVU/108977
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://www.unored247.com/bill/templates/smartlinehost/html/images/extrema_client_logo.png",CR | EXTREMA TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/108978
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg",CR | CANAL 88 STEREO
+http://svtv.xyz:8080/cesar25junio/XHMVU/108979
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://static.wixstatic.com/media/26c143_5612724fc03b46d2943555eca7043bc7~mv2.png/v1/fit/w_2500,h_1330,al_c/26c143_5612724fc03b46d2943555eca7043bc7~mv2.png",CR | ESPERANZA TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/108980
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/kolbi-hogar-tv-anexiontv.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-228191bc-1283-434e-93a5-ef90c46c46c2-mKKclW7",CR | ANEXION TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/108982
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="http://mexico.mom-gmr.org/typo3temp/_processed_/5/0/csm_11834-1329_company_import_89dcecf102.png",CR | MULTIMEDIOS
+http://svtv.xyz:8080/cesar25junio/XHMVU/108985
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUSExMWExMTFRUWGBgWFR4aGBgYGBcWGhUZFRcZHCggHholGxUYITEiJiotLi4uHSAzOD8tNygtLzcBCgoKDg0OGxAQGi8lICUtLS0tLTAvLS0tLS0tMC0tLS0tLy0vLi0tLS8tLS0tLS0tNS0tLS0tLS0uLy0tLS0tLf/AABEIAKgBLAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcCAQj/xABMEAABAwIDBAUFCgkMAwAAAAABAAIDBBEFEiEGIjFBBxNRYXEUMoGRoSMzQlJyc5OxsrMkJVRidISiwdEVFzRDRFNjgpKj0tMWZIP/xAAaAQEAAwEBAQAAAAAAAAAAAAAAAgMEBQEG/8QAPREBAAIBAgMEBQoEBQUAAAAAAAECAwQRBSExEkFRcRMiMoHBMzRhcpGhsdHh8BQjNVIVJEJi8QZTgoPC/9oADAMBAAIRAxEAPwDuKAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg5BtL0rzCoeyjEJhYcoe9jnF5HFzbPAyX4aG9r87IIn+crEXC3Wsbfm2Jtx4ZgR60HqLbzEfyo/RRf9aDZZtriB/tTvoof+tBJU+3Fbp7ox3yoxb9myCVpdu6jTOyJ3blDm8+V3OtoglqTbhp98gc35Dw8enNkQStNtNTP4vyHiesaWgaXN3nd9qCWjeHAFpBBFwQbgg8CCg9ICAgICAgICAgICAgICAgICAgICAgICAgICAgIMdTA2Rjo3tDmPaWuaeDmuFnAjsIKDhW2XQ9R07+sbiDKWGRxyMmbmIPEtY4OBcBfmLgWuTxXkzEdU6Y73nasbqydgqEcMap/oX/uco9uvit/hc39svJ2Gi/q8ZpL/nGRg9JsV726+LydNlj/AEy9s2Gqhbq8VoHnkG15v6nNC97UeKE4ckdaz9jYbsfj7dY2tnaPhRzQyA+t2b2L1CYmGvLX4vTE9fQSBreJMMjR6Hi7Sjxlw/pDhNhJG9h7W2cB9R9iC04VtNTS26uZhJ+CTld/pdYoJ+lqMpzNJY4kElpLSbfGta/gUE7RbSTt84tlH5267/U0W07MvpQWGgxyGU5bljybBr9CezKblpPOwN+2yCTQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBBx/pvJdUUzOTYpHelzmg6f5As2eecO7wjHvW0/TDnIpFRvLs+hexQJzPQw+nC7pvLycVXluEOBzN0I4FuhHgQvd5V2wVnqkaXEMRhN46qobbl1rnN/0OJHsUoyWhmvosVu6GzNtXUv0rKalrR2z07Q+35sjLWPfZWRmnvZL8LpPs8mjLSYJUefBU4c/XWJ/Xw37XNeM9u5qsjLE9WLJw7JXpzbdHspiMYz4ZXRYhE0A9W19pAPzoJTu+AddWRMT0Yr47Una0bPVDt86J/U19O+nkHHccLd7o3bwHhdeoLtQYlFMzMx7ZGHQ2IcPA/wKCfoMclj4HrBpuvPDT4LrEjlxuNOAugtOH4nFNcMO8OLTo4DttzHeNEG6gICAgICAgICAgICAgICAgICAgICAgICAg410xOPl8Y5CmYbeMk1/qCx6ifX9z6ngdYnBaf93whSHThtr81GmObdGzV63FpZiL78/BkZVjvVnoLMU8a039tvsj82WOubmyG+YguGnIEA/WE9BZGeM4Nt+zb7vzb0dS1PQT4qZ4vinpWfuZI61heYx5wYH+guLfr+teTimJiPF7TiNL0taKz6vP4M9O9kjnttrGQD6Whwt61G9OzOy3TaiM9ZtEbbPk+DRO4hKxvOyzLlnHSbbb7I2XAoI5ARViF7dRvBrx2EHMCFfGHbvcm3EotG04/v/RL1u00YhZDWOhxaIuy5JMvXMblN3xytJcCLcTrqBcKUzNI582elK6i+1Y7P3o2HZCCYmfA6x0c4BJpJ3BsnaQxx3XjhxzDtcpVvFuinLp8mL2oZcN20fFJ5NiMTqWduhLmkNOtgTfgD8YXaeN1JSu9NV6te06ghzXA+0Hs+sdyC04JtDm3JyAQNJNAHW+OOAd4aHXzdAgsaAgICAgICAgICAgICAgICAgICAgICAgIOOdKsD5cSYyNjpH+TRjKxpcffJTew5a8VizxM32jwfVcFvTHpZteYiO1PXl3QoO0mCztHVvY6GUWIz3bpzsRxHrSlpxzza9Zpsevw74ZrMxPKfDxjkhqyN4gEZdv5mMvc8c1uPGy1xaOzu+Rtp7Vzehnbffb6N21hWESQvzveHbpboSeJB5+ChTLF52hs1vDMmlxxe9oneduW/wBM/Bgl2adI97zIG5nuIGUu0J01uPUpzM90MVKYpj17TE+W/wAUvs1hLad0vumd+Vlxly2BJIPE3uW+zvVVpnt1iYb8OLFGmy2pbedojpt3+cprCX+7VHjF9hQ1HWGrhEb0t5pgSKvHPrQ162u2C/krG0Wy7ambrXVAi3WtylgdwvrcvHats7vmKxTb1pn7P1e9m9k4YJs3XiYmNwy5QLatudHHtt6VVl325t+givpJmu++yQxHZhpOeI5HA3FtLEcCOw+CodeZieVnmp2gc9jaXFoPK4Bo2UaVMX5zJfhcOB48yeCtrlmOrn5+H1t62P8ARpvoqjDWeU0kvl+FudqW3zQ31tK3jG7XjbKdLgEhXxMT0ci9LUna0LXguORVEYkidmHAjm08w4civUVwwXagRAMmuY7n3QkksuSd++uTXiPNFuWoC6NcCLjUFB9QEBAQEBAQEBAQEBAQEBAQEBAQEBB8KDSyDMX2GYgAm2pA4AnjYXKPd5227nM+myUtFFbTNLK094LGm3rAVeWPUl0OFXtXV02nrOzkWInUfPs+0V5X5P3JZ/6hP1/inZ3aen+Kp0/tT5O3/wBQfN6/W+Eq63AXyOe8yZLvcQLE6X0OhWi1pieUPncGDDeu98sVnw2mU1s/hwg6wdZnc8NJ0tYDNY8TzJVczM3rvGzoVxYcelzejydqeXdttzS9Ddr5XHg8st6G2PtXmbHa0xshwzV4cFLRknrPg3hVNzBl94hzgO5paD9oetV1x2raN2zUazDmw3jHPPZB4xswKmYyukyDK1oAbe9ud79602m3dDhYaYbRvkvt7t27s3s6yke54kLy9uTVtra5j9SpyzbbnDpaGuCLzFLTM7eGyzMmVUS6NqPNTTskFnAFeoc6oGKGpw+Uz0pu0i0kbhdkjebZG8xqe8X0Uq2mvRVlw0zRtbqw1eDNex2KYOCws1qqG9zFzJjA86I6kdmtrWLW6a2i0OFnwWw27MpfZ/aCOpjD2Gzho5p4tP8ADsPNSUrzsjtEIstPIQIicsbtd1xOjD+ZrYdmg4WsF8QEBAQEBAQEBAQEBAQEBAQEBAQEBAQUzPJ/Ljx1rupGHtIizHIHmcXflvbNYWva6h2vW7LROCYwRm35b7fduqPTm/XD28zLO70NYwH7QXmX2JX8Mj/N4/NyXEDvD59n2ivK/J+5PN/UZ+v8Vhbh09Sepp2l0zvMANuHEknQC19Ss2GZi0bPp+L46X0tpt3c482pjeyWK0jg2ZwbmvlcHgtNuNiG8dRoddVqvkivV8ppdDfUx6lq7+Ezz/4YKCiqAJS+QF7o8rCHHQ6kagaC5CpvliZjbudnScJyY8eSt9vWjaOc9fp5eOzWGG1/5QPpHf8AFWenqxf4FqPGv2z+Tdw/D6pvWOkmzOMT2RnO7dLrG97C2rRwULZYnbZp0/CMmOt+3Mc6zEdfv5MH8lYgf7T/ALr/ANzVL09WWeDZ476/bP5JTAcNqI5M805kaGkBudzhmNtd7uv61XkyxaNoadJw6+DJ27THTuWQSql0JhkbOpK5hnbODxUolVNUVJFNTTCso3ZJWcW/Be34TXDm021HgRYgFexM1neFWTHXLXs3a+0lC0t/lvDWZWXy1tMOMTzYucBb3snW4Gmh4Zg3VW0WjdwM2G2K3Zs38PxJk8Ye3VrxwPqIcPYpKnS9gtoetb5NK68sYuxxNzJGLC5J1L2kgE8wWnUkoLegICAgICAgICAgICAgICAgICAgICCmX/Hcn6Az75Ux8r7nRt/T4+v/APKl9OZ92w3xq/qp1LN7EvOF/O6efwlyisN3gf47ftFeR8l7ksnPiM/X+LqfRN/TnfMSfbiWbT+37vyd/j3zWPrR+EprppO5R/PyD0dS/wDgFpzexLg8In/N09/4SrWymyclc172SsjEbg05mk3uL6WWbHj7b6TXcRppLRW1ZneN1gHRdN+Ux/Ru/irfQT4uf/j+P/tz9sfk+v6MZwDaoiJ5AtcB6Trb1J6CfF5HHcW/Ok/bCq4thU1LJ1czCwkXB4tcO1rhoeXeLi9lTas15S6WHUY89O1jnf8AGPNqCRRTlObP7O1NWCYmgMBsXvNmX7BYEk+AVlcdrdGHU6rFg5Xnn4R1WhvRtLbWpYD2dWSPXm/crPQT4ubPFqf2T9v6IbGtkqqmBeQJI26l0eth2uadR6LgKNsdqr8OtxZZ26T9KBZVKENFqvWHVxpJvKY2543AsqIbAtliPnbp0LhckekcCVZS3Zll1GGMtezPXulC4zhzcMrGiJ2bD65olp33JABtuknm3MAediwnW61OBMTE7Sl4ax7HNkjOWSNwew9jh29xBII5gkc0HbsAxZlVAydmgeNWnixw0ew94cCO/jwR4kEBAQEBAQEBAQEBAQEBAQEBAQEBBSozfG5+6ijH+4CqY+VnydG/zCv15/BTOnL3/Dv1v6oF7m9iUeF/O6ec/hLk1SfdQP8AHb9peR8l7ll/6j/7Pi6r0S/0536PJ9uJZ9P7fudvjnzaPrR+EpjprO5RfPyfcvWnN7EuHwn53T3/AIS2+hz3io+eb9gKGn6S28f+Vp5fF82+6R5cPqW08dH5ReFspd1hbbM6RoFgw/3fG/1K+bRHVxceDJk9isz5I3AOmQyTxw1NC+BkjmsEjXl4a5xDW5gWN3bnUg6di8i9Z6S9yabNjje9JiPJdekChZJQzucN6FjpmnmDGMzrHvaCPSvMld6r9BnnDnrMdJ5T5T+XVybZnDfKqqOC5DXEl5HEMaCXeF7Wv2kLJSvanZ9Pq8/oMNr98dPP983Zcexmmw2kM0gyQxANaxg1JOjWMHaT+8nS5W2I2fG2ta9ptad5ly2bptq7lzMN9z5ZpHZrd9mfuXnbr4rf4XNtv2J+x0fYTbSDE4DJGCx7CGyxON3MceGvNpsbHuPAghSUOedIuDClqbsFopwXtHJrgfdGt7hdpHyrcllyV2l9Boc85cfrdY/cKt5VbmotUwlqKl8twTEI5RljoXunp5TwD8rnyQt/h/ijsC0Yp5OHxCtYybx3oPDHydTGZRZ5aL3425E9hIsVYwr90RYs4VU1MAXRyR9abDSN7SG3J5Z22H/zFuaDrSAgICAgICAgICAgICAgICAgICAgokTrY9OPjUTCPRIxUx8rPk6d/wCn1+v8FY6b6VxfQSAbrDUhx7C5sRb68rvUvc3sSr4ZO2qpM+PwlyOqpZOvbYXZna8m1rb2oJuqq5Y9HtPk6WbQZY10XrG8TaLTPhz5uo9EUZNa9w4Ngfc+L47D2H1KvTx6/uauOWj+HiP90fhKS6bpR+AtvqZZ3W7hEAT+0PWtOb2JcbhXzunv/CUh0Nn8Hn+eH3bVXpuktXHZ/m0+r8ZVnpZP4y/VIPvalNR3LOBT8p/4/FWMOd7tFfh1sf22qivWHbzTvjt5T+DvO2p/F9b+iVP3T1vno+Hx+3HnDmnRLI3y834mnkt454r+y6zYPafRcYn/AC8fWj8JWPpmZempyRdrai/cHdW8NJ9Bcrc0zFXN4XSts0zPdG8fbDlBmWZ35leOhaM+WVL2+a6BgfbhmD9wnvtm9S0YZ3jZwuK44i9bx37/AHbfmk+nKcNjpfjF8tu3LlZm9uX2Jl7nnDJ2m3ucz2ZwaoxGfqYd1jbOllPmRM7T2uNjZvPuAJEK07TXqdXGOPpWjaXFYHxx0dLph9Md3/2pWn3x5+FEHXPY92vABaIjZwrWm07ygaaGeqmbBA3rJpDpc7rR8J8h5MF9T4AXJAXqLu+xuy8VBTiJhzyO3pZSLOkfzJ7GjgG8h26khPICAgICAgICAgICAgICAgICAgICDju2ONGkxwT2Ja2ONrwOJY5pDrd40I7wFlyW7OTd9BpMHp9DOP6Z28+TodVTU9bAA60sMgDmkH1OaeR1PtB5haOUw4UxbHbaeUwqMvRXTF1xPM0dm6fbZUzp6zPJ1qcbz1rtaImfH/haMBwKmoInCPdHnSSSOFzlB1e7QAAX7ANe0q2lIpG0MGp1eXU27WSenSO6HF9utqG4hXZojempWGKN3x3OIMjx3GwA7gDzVWoty2dDg2KZyTk7ojb3yv8A0Mu/B6j54fdtXmm6Scbn+bTy+Mqv0uO/GX6rB95UJqO5Pgs+37viquHye7RfOx/bas8dYdnLb1LeU/g79tofxfW/olT909dCej4zH7UecOCYPjjqSoiqmguEL8zmji6MgtkA78riR3gLJinaz6TiNPSYJ27uf79z9AzxU2IUtriWnnaHNc0+lrmnk4Eegix5ha5iJjaXzmLJbFaL16qHN0QXdu1pDL6B0F3W73CQAnvsFT6H6XT/AMVnbnTn5/ovGzGzsFBCY4rm5zPkeRmcbcXEAAADQAaDxJKtrWKw5+fUXzW7VnMdp4H41WGSN4hwyja5rqp+kehvM6ImwcdAL+aA0E8QDG1e1KzFnjFj9XrLSxnHoGweQ0TDDQjzibtlqzzdKTZwiNudnOFhut0U4jZmtabTvKCw2jqK2cQU7c8hAvyZGzhmeQN1g4ewAnReou6bEbIQ4fEWtPWTSWMspFi8jgAPgsF9G/WSSgsiAgICAgICAgICAgICAgICAgICAgIOC9LbvxnJf+7i+ysef2n03Cvm8ecoPAarEIeslonyMbGDJNZuaENAuXStdug5WnXR1gexMV7RyiN3nENPgv697dm3j4+74pL+dLF7aNpHd+R//Oyu9NWOrmRwvLaItWYmJ6fvZXsfx7Ea4Zaqp9yuD1UQDWaWtcAC+ovvZrKM547oX4uEWmf5ltvL9/m1YWNaA1osAs8zMzvLuY60x1itI2iEtgm1FXRZjSuZv2zMkbmY63A6EEOF+IPjyVmK/Ynmw6/TTqKx2esI+sxGeolkqKl4fNIRews1rQLNY0cmgfv4m5TJbty80OnnT0mLdZYS9V7Nk3TOI7e4nPAaWWSMxOs18gZaWRg+C4g214GwF9e1aZyxNXCx8PvTLE7xtEoB0io2dabtrANqK3D3E0kto3G7oZBmiJ7QPgn5JC0VyeLj6jRbz2sf2fkuOH9M9fI5sTaCOWZ+gEZfvHnZgue/irYtE9GC+K9PahO4tXz5AcZmawOGZuG0fnyDl5TJmJEfG+8GHt+CvVan7SbWSVGVhDI4YrCKni0giDfN0sOscBaxIDR8EDigwbKbM1WJyERbkLXWkneCWtPMN4Z39wOnMi4uHfdmNm6ehhEMDbX1e92r5HfGkdzPdwHAABBLoCAgICAgICAgICAgICAgICAgICAgIOS7QY3DSY9JLO0uYadjQQ3M5jiGkOA8Gkaa7yz2tFcm8uviw3y6Ls067zPmy0HSGKuDEpTTB1LSxNyskNnTNeJA4SXBABDOFja+t1fExLlTS1Y3mP3CjVeGwzUlZiMBMUFO5rY4ns3iXCI2cQ6wAMuW4vfL3qmccWneHSxa7Lp6ejtXfw38HrpDwmGiqoqaG5Bp2yPc4kkuL3NB7BcNvYBRyY61jk06LWZc2We102VouVOzpzd5L17shN3kyJsjN3h0i92QmzC+Ze7ITZ4iL5HiONrpHu0axjS5zj2Na3U+hSisypyZq1jeZW+k2AMYbLilQ2hjdq2Ie6VUncyNt7eNnEcwFbXH4ufl1szyo3Ztr4aRhhwyEUbXCz5nZX1cnynnM2McdN619AxWxDDa02neVPmr3yPsMz3yOGgzPfI88Lk3c9x77lHjpOxXRJJLabEbxx8RTtdZ7uzrXtO6PzW69pbqEHZqSlZExscbGxxsFmtaAGtA5ADQIMyAgICAgICAgICAgICAgICAgICAgICAg4F0wi2Jv74oj7CP3LLl9p3+HW/ke+WvhMmTA8Vf2mFl/FzG2/3Pap4eksnFLb2r5Jjo9wgVeFT07iAx9XCZCeHVx+TyP9bWEelSxdJ81Wvne1fqwou1GO+W11RVD3tzhHF83HutI+Vq63aSoZZ57NHDq7Vm3ijDIqtnQmzG6Ve7IzZikqQOa9iELZIjrKcwXY7EavWKmeI+PWS+5x2+NmfbMPk3U4xzLJk1lI6c0o3ZzDKXWsrTWSNteChALQeYkqHWbbu3XK2McQx5NZe3Tk+y7fdS0xUEEVBGRYmIZ53W/vKiQH2NJHxlNlmZnqp9XirnOc9ziXP85xcXOd8t7iXO9JKPEtBszKGtlrHihhdq3rGl1RKNfeKYb7tbbzsrdb3XsRMztAn9n6CadxgwyndCwjLJM516hzSdeuqBuwsIt7nFYntctUaetI7WWfcr7e/KHe9nKCSClhhkk618bA0u11twGupsLC51Nr81nvMTaZiNoThJKD0QEBAQEBAQEBAQEBAQEBAQEBAQEBAQEHA+m7TEhf4VPER4Z5R9YKz5Y9Z2dBb+V7/yVM7RZcNqKEMu6omifnvo1rCwkW7bxj0Er3HaI5Ia3BbJMWr5Ih9e/q3QiWRkTyC5jXkNdYW3mg2OnaFCszHRfmxUyREW7jDaOabcp4ZJraWijc+3jlBXvZtKHpsWOOzErPB0cYgW9ZOIaKL49VM1gtz0bcj02U4xKL66v+mHs4NgtPrUV81a4EblHEGs8DNIchHeHAqcY4hmvq8lunI/89pabTD8Pp4CL2llvUTeIcSA0/5nBT2Z5tM9ZVnHNsKur/pE8ko03Xu3NOB6pgbHf/KURaWHUdTVO6uCKSdwtuxsLg0HQXsLNHjYILZhXR57tHDXVsFHJK9rGwtcJpy4nQOaw5Y78A5x4kC19EN0xVUb6SskocKo/d4S1rql7RNUm7WnOwuAigaQ4jNbXQ3C149NE1i97bQrted9ohatmeiRznmfEZXSSPsXMbIXPcbf1053jpybbhxUp1FKRtij3y8ikz7UupUNFHCwRxMbGxvBrRYD0BY7Wm07ytiNmwvAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBByDpRkwSpnY6fERFLE0xuELDNcBxOV2RpyuBLuJ5nRRtWJXYs98cbQo7qrZuHlX1p7y2NnsyOHtSKQ9tqcs97A7pApIreSYRSRlvB1RmqHjsILrEH0n0r3aFU2tPWWjiPSfikoy+UuiZybA1sQHc0sGf9peoof+Ta+od1nUVMznW3zHI892+4HT0oNpuyFTcddJT0+nGeriDvow90n7KPY59E7SbB0opjVzYgJo2SiIx0cLnve/KHZWOlLBo1wcSW2481GbRHOUMl6443vO3m2qCmpIyBTYZ1r/gvr5jKT+rQgMPrVU56x0YL8SxRO1N7T9ELfTbM4vVMDHvdTwW0jZalhA+L1cQ6wjuddR7WW3SNkPSa3L7NYrH09f37lp2a6MqamLHvOdzHNeGtaGsDmkOaSNS4hwBuTy4KVMO09q07ytw6Hs3jJkvNrQvQaLk21PHv8Ve3vqAgICAgICAgICAgICAgICAgICAgICAgICAgxzwte0se0PY4EOa4AtcDoQQdCD2IIM7D4Z+QUv0DP+KD5/4Nhf5BS/QM/ggw4nsjSMhkdS4fSeUBjur/AAeIb1tNS0e0+Kjbfaduq3BGOclYyTtXfn5OVHoqxF8rpnNyyPJJd1zW8RbQRiwFtLDS2iz76h2duE1/un9+5tRdC1Q85pHQ37XSPe77I+tOxmn/AFPf4rhlemKZ+z801Q9C7BbPO3wZDr6HOcfqT+HtPWxPGMNPk8Ee+f0+K54fsNQxQMpxCHMY90lySC+R3nOeW2vfTThYAcAFdOOsxET3Pn9VSmpvNr1jrvt3c03Q4dDCLRRMjHPI0C/jYaqcVivSEaY6U9mIhtL1MQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEH/9k=",CR | TELE UNO
+http://svtv.xyz:8080/cesar25junio/XHMVU/108986
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://pbs.twimg.com/profile_images/1033840907/LogoTF40NUEVO.jpg",CR | TELEFIDES
+http://svtv.xyz:8080/cesar25junio/XHMVU/108987
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL_1VAwgl-vFe7_x-pd-m7eHdVpa_PEI0khMkZGukPVDraZ_Xo&usqp=CAU",CR | SANTA CRUZ TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/108989
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="http://1.bp.blogspot.com/-2uGdxwfaAN8/Ug_DR6xglFI/AAAAAAAABs0/4o-nL35unaE/s1600/Cabecera-NI.png",CR | NORTE INFORMATIVO
+http://svtv.xyz:8080/cesar25junio/XHMVU/108991
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Canal9CRNew.png",CR | TELE SISTEMA CANAL 9
+http://svtv.xyz:8080/cesar25junio/XHMVU/108992
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://static.wixstatic.com/media/3815cf_60b3ccad599f4f5fb93c3ac9a71c7e30~mv2.png/v1/fill/w_512,h_256,al_c/3815cf_60b3ccad599f4f5fb93c3ac9a71c7e30~mv2.png",CR | CRUZ TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/108994
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://i.pinimg.com/originals/bf/10/a9/bf10a9bca7750c957a92ee06d155bd73.png",CR | TV SUR CANAL 14
+http://svtv.xyz:8080/cesar25junio/XHMVU/108997
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://channels.roku.com/images/4967744e0f7c48579a84b422656d296c-hd.jpg",CR | RETRO CHANNEL
+http://svtv.xyz:8080/cesar25junio/XHMVU/108998
+#EXTINF:-1 group-title="HBO CANALES" tvg-logo="https://static.epg.best/cz/HBO.cz.png",HBO NORTE
+http://svtv.xyz:8080/cesar25junio/XHMVU/109
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://fastly.4sqi.net/img/general/600x600/429432479_K1CtSQHpRiLd3RzlqAUZGYj4k_7gghiaWr5Q6n3ED4Y.png",CR | RADIO URBANO TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/109001
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://i.imgur.com/aUKg8oO.png",CR | +TELEVISION
+http://svtv.xyz:8080/cesar25junio/XHMVU/109002
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://cdn-radiotime-logos.tunein.com/s50287g.png",CR | IQRADIO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109004
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z",CR |  NICOYA TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/109005
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0IUBI8W6Nq0c3F_fUMdnBGrFQgDxt6Z6QQq9pUqb6nCmwplX&s",CR | VIDEO TOUR TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/109006
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCh7LhOqbZ1ZgZ3Z5XE_xR1PSiyVjcFSblAg1GHWALdx9K2bwfZA&s",CR | CABLE SUR CANAL 5
+http://svtv.xyz:8080/cesar25junio/XHMVU/109009
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://play-lh.googleusercontent.com/7Qiin3a3kZHu6qIoTbhBHRFWxxDBDyeWCXzx7WC9z5pQywBl9jd001FBCvVSSNa_ojQ=s200",CR | TICA TV PLUS
+http://svtv.xyz:8080/cesar25junio/XHMVU/109011
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",CR | RETROPLUS 2
+http://svtv.xyz:8080/cesar25junio/XHMVU/109013
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://i.postimg.cc/fW27W5dX/1600980058881.png",CR | TVN CANAL 14
+http://svtv.xyz:8080/cesar25junio/XHMVU/109016
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",CR | RETROPLUS MUSIC 1
+http://svtv.xyz:8080/cesar25junio/XHMVU/109018
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://i.postimg.cc/85XQs6bK/Logo-XTV.png",CR | EXTREME TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/109019
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png",CR | TELETICA 7 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/109023
+#EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png",T | COSTA RICA
+http://svtv.xyz:8080/cesar25junio/XHMVU/109026
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png",CR | REFRETEL 4 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/109031
+#EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png",T | COSTA RICA
+http://svtv.xyz:8080/cesar25junio/XHMVU/109033
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/640px-Canal6CR.png",CR | REFRETEL 6 HD.
+http://svtv.xyz:8080/cesar25junio/XHMVU/109037
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png",CR | TIGO SPORTS HD.
+http://svtv.xyz:8080/cesar25junio/XHMVU/109041
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://cartagomedios.com/wp-content/uploads/2021/04/LogoCartagoMedios.png",CR | CARTAGO MEDIOS TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/109044
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://multizonastv.com/wp-content/uploads/elementor/thumbs/logo-1-pddmr4s4yp6um8r225qmuwej1etv3o17802e1h0l48.png",CR | MULTIZONASTV
+http://svtv.xyz:8080/cesar25junio/XHMVU/109048
+#EXTINF:-1 group-title="PREMIUM COSTA RICA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/BZAFW4DBWRBGJPAYNKXOVSSDHM.png",CR | FUTV
+http://svtv.xyz:8080/cesar25junio/XHMVU/109050
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://svtv.xyz:8000/images/4418a85be34f379a1a4efb95520701f0.jpg",MX: IMAGEN
+http://svtv.xyz:8080/cesar25junio/XHMVU/109052
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://svtv.xyz:8000/images/cd30f07c220bf5807fe9fa517c01e4ca.png",MX: GLITZ
+http://svtv.xyz:8080/cesar25junio/XHMVU/109053
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://svtv.xyz:8000/images/38425aa5a05aada202d70bd887ed4471.png",MX: FORO TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/109054
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png",MX: CANAL DE LAS ESTRELLAS
+http://svtv.xyz:8080/cesar25junio/XHMVU/109056
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://svtv.xyz:8000/images/4d370e5062dd7c9fa7f1f6eb6a2d1a67.png",MX: AZ CLIC
+http://svtv.xyz:8080/cesar25junio/XHMVU/109058
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://svtv.xyz:8000/images/737729a379fa0e83ad71f83233b5bb27.png",MX: AZ MUNDO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109059
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECU | ECUAVISA 2
+http://svtv.xyz:8080/cesar25junio/XHMVU/109477
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECU | ECUAVISA
+http://svtv.xyz:8080/cesar25junio/XHMVU/109478
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png",ECU | OROMAR
+http://svtv.xyz:8080/cesar25junio/XHMVU/109481
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",ECU | TC TELEVISION
+http://svtv.xyz:8080/cesar25junio/XHMVU/109483
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png",ECU | TELEVICENTRO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109485
+#EXTINF:-1 group-title="PREMIUM LATINO" tvg-logo="https://photos.live-tv-channels.org/tv-logo/pe-tv-peru-2373.jpg",LAT |  TV PERU
+http://svtv.xyz:8080/cesar25junio/XHMVU/109531
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO MEXICO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109625
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 51 MIAMI
+http://svtv.xyz:8080/cesar25junio/XHMVU/109629
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO FRESNO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109636
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 44 (ESP)
+http://svtv.xyz:8080/cesar25junio/XHMVU/109640
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 15 KVDA (PALM SPRINGS)
+http://svtv.xyz:8080/cesar25junio/XHMVU/109643
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 3 (KCSO SACRAMENTO)
+http://svtv.xyz:8080/cesar25junio/XHMVU/109644
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO SALT LAKE CITY (ESP)
+http://svtv.xyz:8080/cesar25junio/XHMVU/109646
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/ec0ec85d0d0cb7afbc8a0304b82812a9.png",GALAVISION ACRAMENTO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109647
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 60
+http://svtv.xyz:8080/cesar25junio/XHMVU/109653
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 39 DALLAS (ESP
+http://svtv.xyz:8080/cesar25junio/XHMVU/109655
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/6b20c1976d8275d39ff4a75bf34bd7a5.png",UNIMAS PHOENIX (ESP)
+http://svtv.xyz:8080/cesar25junio/XHMVU/109657
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/84ca814de87f8be948f72d23003f1d5d.png",GALAVISION OP****
+http://svtv.xyz:8080/cesar25junio/XHMVU/109662
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/72e973b0e982957fc08a546fbd2ea366.png",GALAVISION OP**
+http://svtv.xyz:8080/cesar25junio/XHMVU/109666
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/09979030a312d53511faf34ab80c0a8e.png",GALAVISION OP*
+http://svtv.xyz:8080/cesar25junio/XHMVU/109667
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/f7a645d0b5e0bd705cb678fc5bf862fc.png",GALAVISION*
+http://svtv.xyz:8080/cesar25junio/XHMVU/109672
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/ec0ec85d0d0cb7afbc8a0304b82812a9.png",GALAVISION OP***
+http://svtv.xyz:8080/cesar25junio/XHMVU/109675
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO INTERNACIONAL
+http://svtv.xyz:8080/cesar25junio/XHMVU/109682
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/b43ba902ace5d55ecb791a5da816ed1f.png",UNIMAS Atlanta HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/109686
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/6b20c1976d8275d39ff4a75bf34bd7a5.png",UNIMAS AUSTIN
+http://svtv.xyz:8080/cesar25junio/XHMVU/109687
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/7cb8a915baaa0cb6d63a951ed9d2f85a.png",UNIMAS FRESNO (P)
+http://svtv.xyz:8080/cesar25junio/XHMVU/109690
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/1e72e15c63483798997bcb54d4980760.png",UNIMA
+http://svtv.xyz:8080/cesar25junio/XHMVU/109693
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/ab399331449b34e3a2a10cfe4046c624.png",UNIMAS Miami HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/109694
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/6e4d18ac7b37a2b50dc0b5e2de656a09.png",UNIMAS SALTLAKE
+http://svtv.xyz:8080/cesar25junio/XHMVU/109697
+#EXTINF:-1 group-title="UNIMAS-GALAVISION" tvg-logo="http://svtv.xyz:8000/images/ab436a2b2b6c3683e0c2cf7484d21072.png",UNIMAS SAN ANTONIO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109698
+#EXTINF:-1 group-title="UNIVISION" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION NUEVA YORK
+http://svtv.xyz:8080/cesar25junio/XHMVU/109705
+#EXTINF:-1 group-title="UNIVISION" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION phila
+http://svtv.xyz:8080/cesar25junio/XHMVU/109709
+#EXTINF:-1 group-title="UNIVISION" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION HOUSTON
+http://svtv.xyz:8080/cesar25junio/XHMVU/109710
+#EXTINF:-1 group-title="UNIVISION" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION MIAMI
+http://svtv.xyz:8080/cesar25junio/XHMVU/109712
+#EXTINF:-1 group-title="UNIVISION" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION NY
+http://svtv.xyz:8080/cesar25junio/XHMVU/109713
+#EXTINF:-1 group-title="UNIVISION" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION SALTLAKE
+http://svtv.xyz:8080/cesar25junio/XHMVU/109718
+#EXTINF:-1 group-title="UNIVISION" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION SAN FRANCISCO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109720
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO INTERNACIONAL
+http://svtv.xyz:8080/cesar25junio/XHMVU/109722
+#EXTINF:-1 group-title="UNIVISION" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION DEPORTES
+http://svtv.xyz:8080/cesar25junio/XHMVU/109723
+#EXTINF:-1 group-title="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO EAST FEED
+http://svtv.xyz:8080/cesar25junio/XHMVU/109725
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://svtv.xyz:8000/images/c4573eb59307080455539d764921a316.png",MX: AZ CINEMA
+http://svtv.xyz:8080/cesar25junio/XHMVU/109787
+#EXTINF:-1 group-title="PREMIUM LATINO" tvg-logo="https://forounivers.com/uploads/monthly_2021_01/small.Logo-de-Pelicula-2021.png.23ff352bff7e01f52b5fffb70ddb86dc.png",LAT | DE PELICULA CLASICO
+http://svtv.xyz:8080/cesar25junio/XHMVU/109986
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://svtv.xyz:8000/images/f57b47a6b7d8b0548915db4acb3bf4c0.png",MX: A+
+http://svtv.xyz:8080/cesar25junio/XHMVU/109987
+#EXTINF:-1 group-title="PREMIUM LATINO" tvg-logo="http://svtv.xyz:8000/images/c81e728d9d4c2f636f067f89cc14862c.jpeg",LAT | HORRORFY
+http://svtv.xyz:8080/cesar25junio/XHMVU/109989
+#EXTINF:-1 group-title="PREMIUM LATINO" tvg-logo="http://svtv.xyz:8000/images/2cf6e23cb123df93942020f06ada4423.jpg",LAT | TOP CINE
+http://svtv.xyz:8080/cesar25junio/XHMVU/109991
+#EXTINF:-1 group-title="PREMIUM LATINO" tvg-logo="http://svtv.xyz:8000/images/a5d60cc7fcc62832456bb3b1a406d369.png",LAT | CINE SUR
+http://svtv.xyz:8080/cesar25junio/XHMVU/109992
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_mtv_plus.png/180px-Logo_mtv_plus.png",MU: MTV HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/110008
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://sc.dish.com/shared/images/station-logos/MTV2.png",MU: MTV 2
+http://svtv.xyz:8080/cesar25junio/XHMVU/110009
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png",MU: MTV LIVE
+http://svtv.xyz:8080/cesar25junio/XHMVU/110010
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://svtv.xyz:8000/images/092558c40d2000b3fe3e19a270ae9da9.png",DISCOVERY THEATER SD
+http://svtv.xyz:8080/cesar25junio/XHMVU/110775
+#EXTINF:-1 group-title="DISCOVERY'S" tvg-logo="http://svtv.xyz:8000/images/1f1146db861cf7485d48e9ea3ac5c762.png",DISCOVERY TLC HD.
+http://svtv.xyz:8080/cesar25junio/XHMVU/110781
+#EXTINF:-1 group-title="TIGO SPORTS" tvg-logo="http://svtv.xyz:8000/images/ccf6d22fc26285238508588ca5bd8f8e.png",T | EL SALVADOR
+http://svtv.xyz:8080/cesar25junio/XHMVU/110849
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://svtv.xyz:8000/images/1890e0812faeb12f2f66110349f4f4cb.png",CUL | HGTV MX
+http://svtv.xyz:8080/cesar25junio/XHMVU/110851
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png",EN: Comedy Central
+http://svtv.xyz:8080/cesar25junio/XHMVU/110858
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png",EN | DISTRITO COMEDIA
+http://svtv.xyz:8080/cesar25junio/XHMVU/110859
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/atreseries.jpg",EN: A3Series HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/110860
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/univision-tlnovelas-1678.png",EN: TLNovelas HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/110862
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png",EN: Warner TV HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/110863
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://svtv.xyz/nologo.png",EN: Juntos HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/110866
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png",EN: Pasiones
+http://svtv.xyz:8080/cesar25junio/XHMVU/110870
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://svtv.xyz:8000/images/953f103d8260290e423bbad7ec2b65eb.png",Lat: Lifetime
+http://svtv.xyz:8080/cesar25junio/XHMVU/110871
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png",EN: Tru TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/110872
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://svtv.xyz:8000/images/2fd8d4e6101eab6357ae29d747e0819e.png",LAT: E! Entertainment
+http://svtv.xyz:8080/cesar25junio/XHMVU/110873
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://static.epg.best/ar/DeporTV.ar.png",DLAT | DEPORTV HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/110878
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/deportes/adrenalina.png",DLAT | ADRENALINA
+http://svtv.xyz:8080/cesar25junio/XHMVU/110879
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png",DLAT | TYC SPORTS INTERNACIONAL HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/110880
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 1
+http://svtv.xyz:8080/cesar25junio/XHMVU/110881
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 2
+http://svtv.xyz:8080/cesar25junio/XHMVU/110882
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 3
+http://svtv.xyz:8080/cesar25junio/XHMVU/110883
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 4
+http://svtv.xyz:8080/cesar25junio/XHMVU/110884
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 5
+http://svtv.xyz:8080/cesar25junio/XHMVU/110885
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 6
+http://svtv.xyz:8080/cesar25junio/XHMVU/110886
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 7
+http://svtv.xyz:8080/cesar25junio/XHMVU/110887
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 8
+http://svtv.xyz:8080/cesar25junio/XHMVU/110888
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 9
+http://svtv.xyz:8080/cesar25junio/XHMVU/110889
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 10
+http://svtv.xyz:8080/cesar25junio/XHMVU/110890
+#EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png",DLAT | TUDNXTRA 11
+http://svtv.xyz:8080/cesar25junio/XHMVU/110891
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="http://svtv.xyz:8000/images/95171258279507cbae7495dac7cd46bd.png",INF | BABY TV
+http://svtv.xyz:8080/cesar25junio/XHMVU/117
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="http://svtv.xyz:8000/images/1bc94183160849d6b99192b880949a9e.png",INF | CARTOON NETWORK SUR
+http://svtv.xyz:8080/cesar25junio/XHMVU/120
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="http://svtv.xyz:8000/images/01cfd6cbdeb526af56a72884b210e301.png",INF | NICK
+http://svtv.xyz:8080/cesar25junio/XHMVU/121
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",NOTI | CANAL 26 (720P)
+http://svtv.xyz:8080/cesar25junio/XHMVU/121935
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://i.imgur.com/FZwHq8k.png",NOTI | CBN RIO (720P)
+http://svtv.xyz:8080/cesar25junio/XHMVU/121936
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://i.imgur.com/FZwHq8k.png",NOTI | CBN SÃ£O PAULO (720P)
+http://svtv.xyz:8080/cesar25junio/XHMVU/121937
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONALES" tvg-logo="http://svtv.xyz/nologo.png",NOTI | RECORD NEWS (720P)
+http://svtv.xyz:8080/cesar25junio/XHMVU/121938
+#EXTINF:-1 group-title="SHOWTIME & STARZ" tvg-logo="http://cardano.ddns.net/images/8c4fab88168f3b9a3110631e98913bc8.png",USA: SHOWTIME EXTREME
+http://svtv.xyz:8080/cesar25junio/XHMVU/124172
+#EXTINF:-1 group-title="SHOWTIME & STARZ" tvg-logo="http://cardano.ddns.net/images/d9fdf16631805fa24bac5a0669445b30.png",USA: SHOWTIME NEXT
+http://svtv.xyz:8080/cesar25junio/XHMVU/124174
+#EXTINF:-1 group-title="ESPN" tvg-logo="http://svtv.xyz:8000/images/fa74b8ac9b6e1d65670ce20acde555a9.png",ESPN 2 BRASIL
+http://svtv.xyz:8080/cesar25junio/XHMVU/124234
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2167.png",CA: FOOD NETWORK HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124236
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2201.png",CA: FIGHT NETWORK
+http://svtv.xyz:8080/cesar25junio/XHMVU/124237
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2073.png",CA: E! CANADA HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124238
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2072.png",CA: DTOUR HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124239
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2164.png",CA: DIY NETWORK HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124240
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://svtv.xyz/nologo.png",CA: DISCOVERY CANADA HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124241
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2069.png",CA: CTV SCI-FI HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124242
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2068.png",CA: CTV DRAMA HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124243
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2067.png",CA: CTV COMEDY HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124244
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2159.png",CA: CRIME & INVESTIGATION
+http://svtv.xyz:8080/cesar25junio/XHMVU/124245
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2320.png",CA: CP24 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124246
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2064.png",CA: CMT CANADA
+http://svtv.xyz:8080/cesar25junio/XHMVU/124247
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2316.png",CA: CHCH HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124248
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://svtv.xyz:8000/images/72a7f30fd311f7abd23e1f88d4783abd.png",CA: AMC HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124249
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2055.png",CA: ADULT SWIM HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124250
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2053.png",CA: ABC SPARK HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124251
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2051.png",CA: A&E
+http://svtv.xyz:8080/cesar25junio/XHMVU/124252
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2168.png",CA: GAME TV HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124253
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2077.png",CA: FYI HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124254
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2075.png",CA: FX HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124255
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2076.png",CA: FXX HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124256
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2175.png",CA: MAKEFUL
+http://svtv.xyz:8080/cesar25junio/XHMVU/124257
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2079.png",CA: LIFETIME HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124258
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2172.png",CA: HISTORY HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124259
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2170.png",CA: HGTV CANADA HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124260
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2093.png",CA: SLICE
+http://svtv.xyz:8080/cesar25junio/XHMVU/124261
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2091.png",CA: SHOWCASE HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124262
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2088.png",CA: PBS HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124263
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2086.png",CA: OWN
+http://svtv.xyz:8080/cesar25junio/XHMVU/124264
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2177.png",CA: NAT GEO WILD HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124265
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2176.png",CA: NAT GEO HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124266
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2010.png",CA: MOVIETIME HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124267
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2227.png",CA: YES NETWORK HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124268
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2106.png",CA: W NETWORK EAST
+http://svtv.xyz:8080/cesar25junio/XHMVU/124269
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2358.png",CA: TVA MONTREAL HD (FR)
+http://svtv.xyz:8080/cesar25junio/XHMVU/124270
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2102.png",CA-F: TV5 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124271
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2097.png",CA: TCM
+http://svtv.xyz:8080/cesar25junio/XHMVU/124272
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2100.png",CA: TLC HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124273
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2099.png",CA: TFO  (FR)
+http://svtv.xyz:8080/cesar25junio/XHMVU/124274
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2219.png",CA: TSN 1 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124275
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2220.png",CA: TSN 2 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124276
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2221.png",CA: TSN 3 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124277
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2222.png",CA: TSN 4 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124278
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2223.png",CA: TSN 5 HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124279
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2216.png",CA: SPORTSNET PACIFIC HD
+http://svtv.xyz:8080/cesar25junio/XHMVU/124280
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://img.spartanly.net:2082/ca/2215.png",CA: SPORTSNET ONTARIO HD
