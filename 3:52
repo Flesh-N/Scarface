@@ -1,0 +1,64 @@
+#EXTM3U
+
+############################
+🇸🇻 EL SALVADOR
+############################
+#EXTINF:-1 group-title="SV | General",Canal 10
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+
+#EXTINF:-1 group-title="SV | General",Canal 11 TuTV
+https://stream.giostreaming.app/canal11/canal11.m3u8
+
+#EXTINF:-1 group-title="SV | General",Canal 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="SV | General",Megavisión 19
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 group-title="SV | General",Megavisión 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 group-title="SV | Noticias",Asamblea Legislativa
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+
+############################
+🇨🇱 CHILE
+############################
+#EXTINF:-1 group-title="CL | Música",MusicTop
+http://186.0.248.95:20202/Live/ae5e84b89a6f16c4638a790cc891a3c6/musictop.playlist.m3u8
+
+############################
+🇨🇴 COLOMBIA
+############################
+#EXTINF:-1 group-title="CO | General",Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 group-title="CO | General",Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+#EXTINF:-1 group-title="CO | Noticias",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+############################
+🇨🇷 COSTA RICA
+############################
+#EXTINF:-1 group-title="CR | General",Teletica (ejemplo)
+https://movil.ejeserver.com/live/canal8tv.m3u8
+
+############################
+🌎 VARIOS / MÚSICA
+############################
+#EXTINF:-1 group-title="Música",La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+
+#EXTINF:-1 group-title="Música",Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
+
+############################
+🙏 RELIGIOSOS
+############################
+#EXTINF:-1 group-title="Religión",Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 group-title="Religión",Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m
