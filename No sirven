@@ -1,0 +1,64 @@
+#EXTM3U
+
+############################
+🇸🇻 EL SALVADOR (PRINCIPAL)
+############################
+#EXTINF:-1 group-title="SV | Principal",Canal 10
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+
+#EXTINF:-1 group-title="SV | Principal",Canal 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="SV | Principal",Megavisión 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+############################
+🇸🇻 EL SALVADOR (BACKUP)
+############################
+#EXTINF:-1 group-title="SV | Backup",Canal 10 (Backup)
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+
+#EXTINF:-1 group-title="SV | Backup",Canal 12 (Backup)
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+############################
+⚽ DEPORTES (EVENTOS)
+############################
+#EXTINF:-1 group-title="Deportes | Eventos",Evento 1
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-01.playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes | Eventos",Evento 2
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-02.playlist.m3u8
+
+############################
+🎬 CINE Y SERIES
+############################
+#EXTINF:-1 group-title="Cine",TNT
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-66.playlist.m3u8
+
+#EXTINF:-1 group-title="Cine",Warner Channel
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-73.playlist.m3u8
+
+############################
+👶 INFANTIL
+############################
+#EXTINF:-1 group-title="Infantil",Cartoon Network
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-31.playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil",Disney Channel
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-32.playlist.m3u8
+
+############################
+🌎 INTERNACIONAL
+############################
+#EXTINF:-1 group-title="Internacional",NASA TV
+https://ntv1.akamaized.net/hls/live/2032018/NASA-TV1/master.m3u8
+
+#EXTINF:-1 group-title="Internacional",Bloomberg
+https://liveprodusphoenixeast.global.ssl.fastly.net/LiveApp/streams/intl/stream.m3u8
+
+############################
+⚠️ REVISAR (INestables)
+############################
+#EXTINF:-1 group-title="Revisar",Canal desconocido 1
+http://link-no-estable.m3
