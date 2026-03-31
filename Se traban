@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV LATINO",Televisa
+http://example.com/stream1.m3u8
+
+#EXTINF:-1 group-title="TV LATINO",TV Azteca
+http://example.com/stream2.m3u8
+
+#EXTINF:-1 group-title="TV LATINO",Canal 5
+http://example.com/stream3.m3u8
+
+#EXTINF:-1 group-title="TV LATINO",Canal 7
+http://example.com/stream4.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://example.com/stream5.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Fox Sports
+http://example.com/stream6.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TUDN
+http://example.com/stream7.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Sky Sports
+http://example.com/stream8.m3u8
+
+#EXTINF:-1 group-title="PELÍCULAS",HBO
+http://example.com/stream9.m3u8
+
+#EXTINF:-1 group-title="PELÍCULAS",Cinemax
+http://example.com/stream10.m3u8
+
+#EXTINF:-1 group-title="PELÍCULAS",AMC
+http://example.com/stream11.m3u8
+
+#EXTINF:-1 group-title="PELÍCULAS",FX
+http://example.com/stream12.m3u8
+
+#EXTINF:-1 group-title="INFANTIL",Cartoon Network
+http://example.com/stream13.m3u8
+
+#EXTINF:-1 group-title="INFANTIL",Disney Channel
+http://example.com/stream14.m3u8
+
+#EXTINF:-1 group-title="INFANTIL",Nickelodeon
+http://example.com/stream15.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CNN Español
+http://example.com/stream16.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",BBC World News
+http://example.com/stream17.m3u8
+
+#EXTINF:-1 group-title="MÚSICA",MTV
+http://example.com/stream18.m3u8
+
+#EXTINF:-1 group-title="MÚSICA",HTV
+http://example.com/stream19.m3u8
+
+#EXTINF:-1 group-title="VARIOS",Discovery Channel
+http://example.com/stream20.m3u8
+
+#EXTINF:-1 group-title="VARIOS",National Geographic
+http://example.com/stream21.m3u8
+
+#EXTINF:-1 group-title="VARIOS",History Channel
+http://example.com/stream22.m3u8
