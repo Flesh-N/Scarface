@@ -1,0 +1,113 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+############################
+# 🇸🇻 EL SALVADOR
+############################
+#EXTINF:-1 group-title="SV 🇸🇻", Canal 4
+https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
+#EXTINF:-1 group-title="SV 🇸🇻", Canal 6
+https://stream.gostreaming.app:19360/canal6/canal6.m3u8
+#EXTINF:-1 group-title="SV 🇸🇻", Canal 10
+https://stream.gostreaming.app:19360/canal10/canal10.m3u8
+#EXTINF:-1 group-title="SV 🇸🇻", Canal 11
+https://stream.gostreaming.app:19360/canal11/canal11.m3u8
+#EXTINF:-1 group-title="SV 🇸🇻", Canal 12
+https://stream.gostreaming.app:19360/canal12/canal12.m3u8
+#EXTINF:-1 group-title="SV 🇸🇻", Canal 19
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+#EXTINF:-1 group-title="SV 🇸🇻", Canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+
+############################
+# ⚽ DEPORTES (FULL)
+############################
+#EXTINF:-1 group-title="DEPORTE ⚽", ESPN 1
+http://190.92.10.66:8080/play/a03x/index.m3u8
+#EXTINF:-1 group-title="DEPORTE ⚽", ESPN 2
+http://38.52.220.114:8080/play/a03z/index.m3u8
+#EXTINF:-1 group-title="DEPORTE ⚽", ESPN 3
+http://190.105.218.138:8081/play/a00y/index.m3u8
+#EXTINF:-1 group-title="DEPORTE ⚽", FOX Sports
+http://38.52.220.114:8080/play/a00p/index.m3u8
+#EXTINF:-1 group-title="DEPORTE ⚽", Tigo Sports
+https://tv.tigosports.gt:1936/live/smil:tigosports.smil/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTE ⚽", LaLiga TV
+http://190.105.218.138:8081/play/a00n/index.m3u8
+#EXTINF:-1 group-title="DEPORTE ⚽", Premier League
+http://38.52.220.114:8080/play/a045/index.m3u8
+#EXTINF:-1 group-title="DEPORTE ⚽", Champions
+http://190.92.10.66:8080/play/a046/index.m3u8
+
+############################
+# 🎬 PREMIUM (FULL)
+############################
+#EXTINF:-1 group-title="PREMIUM 🎬", HBO
+http://38.52.220.114:8080/play/a00k/index.m3u8
+#EXTINF:-1 group-title="PREMIUM 🎬", HBO 2
+http://190.92.10.66:8080/play/a00l/index.m3u8
+#EXTINF:-1 group-title="PREMIUM 🎬", Cinemax
+http://190.92.10.66:8080/play/a00m/index.m3u8
+#EXTINF:-1 group-title="PREMIUM 🎬", Star Channel
+http://38.52.220.114:8080/play/a00r/index.m3u8
+
+############################
+# 🎬 CINE ☁️ (EXPANDIDO)
+############################
+#EXTINF:-1 group-title="CINE ☁️", Runtime Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5939
+#EXTINF:-1 group-title="CINE ☁️", Runtime Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5941
+#EXTINF:-1 group-title="CINE ☁️", Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5943
+#EXTINF:-1 group-title="CINE ☁️", Cine Retro
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="CINE ☁️", Pelimex
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+############################
+# 📺 TV ☁️ (GRANDE)
+############################
+#EXTINF:-1 group-title="TV ☁️", FailArmy
+https://failarmy-international-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV ☁️", Pet Collective
+https://thepetcollective-international-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV ☁️", People Are Awesome
+https://peopleareawesome-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV ☁️", Motorvision
+https://motorvision.tv/stream/playlist.m3u8
+#EXTINF:-1 group-title="TV ☁️", Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+############################
+# 📚 DOCUMENTALES ☁️
+############################
+#EXTINF:-1 group-title="DOC ☁️", Real Stories
+https://realstories-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOC ☁️", Wonder
+https://wonder-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOC ☁️", Nature Vision
+https://naturevision-samsung.amagi.tv/playlist.m3u8
+
+############################
+# 🎵 MÚSICA ☁️
+############################
+#EXTINF:-1 group-title="MÚSICA ☁️", Vevo Pop
+https://vevo-pop-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA ☁️", Vevo Latino
+https://vevo-latino-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA ☁️", Vevo 80s
+https://vevo-80s-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+############################
+# 📺 24/7 (FULL)
+############################
+#EXTINF:-1 group-title="24/7 ☁️", Bob Esponja
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8
+#EXTINF:-1 group-title="24/7 ☁️", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0c7c08e8b7c0009e86d61/master.m3u8
+#EXTINF:-1 group-title="24/7 ☁️", South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fca0c5e4d2a390007e3c5b1/master.m3u8
+#EXTINF:-1 group-title="24/7 ☁️", CSI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007a5d0d8/master.m3u8
+#EXTINF:-1 group-title="24/7 ☁️", MTV Classics
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9847119a9b2c0007c9d07b/master.m3u8
